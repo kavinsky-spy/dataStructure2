@@ -32,3 +32,5 @@ function vetor(v, c, f) {
     if (c == f) return v[c];
     return v[c] + vetor(v, c + 1, f);
 }
+
+
