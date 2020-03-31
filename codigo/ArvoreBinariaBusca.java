@@ -59,6 +59,7 @@ public class ArvoreBinariaBusca {
             }
             
         }
+        public int contar_nos_aux
 
     }
     
